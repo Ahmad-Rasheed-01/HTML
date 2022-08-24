@@ -1,6 +1,6 @@
 # HTML
 ## Clone My Project
-    https://github.com/Ahmad-Rasheed-01/HTML.git
+    https://github.com/Ahmad-Rasheed-01/HTML-Notes.git
     
     
 ## Compiler Link
